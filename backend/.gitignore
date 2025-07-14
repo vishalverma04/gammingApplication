@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+
+# Coverage reports
+coverage/
+
+# OS files
+*.swp
+
+# Optional: if using PM2 logs
+pids/
+*.pid
+*.seed
